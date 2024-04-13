@@ -55,8 +55,8 @@
 ## Output:
 
 
-### Name: S.PRIYADHARSHINI
-### Register Number: 212223240129
+### Name: Sarish Varshan V
+### Register Number: 212223230196
 ![output](https://github.com/priyadharshini225/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/138849213/cb6145d2-4a11-4aaf-9e75-062f442ecfcf)
 
 ## RESULT:
